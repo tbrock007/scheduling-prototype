@@ -8,5 +8,7 @@ Calendly-style booking system for a home services company. Built for the Broccol
 - Natural-language scheduling assistant (stretch goal)
 
 **Live demo:** https://scheduling-prototype--tbrock209.replit.app/
+
+
 **Video walkthrough:** https://www.loom.com/share/3afdb374cfb24efd87371b1d351e6832 
 
