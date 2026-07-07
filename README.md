@@ -1,5 +1,6 @@
 # scheduling-prototype
 Multi-Skill Scheduling Prototype
+
 Calendly-style booking system for a home services company. Built for the Broccoli AI take-home.
 
 - Three screens: technician shift settings, dispatcher calendar, customer booking page
